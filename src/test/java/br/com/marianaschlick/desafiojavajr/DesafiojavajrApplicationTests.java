@@ -34,6 +34,13 @@ class DesafiojavajrApplicationTests {
 
 	@Test
 	void testCreateTodoFailure() {
+		webTestClient
+			.post()
+			.uri("/todos")
+			.bodyValue(
+				new Todo("", "", 0, false))
+			.exchange()
+			.expectStatus().isBadRequest();
 	}
 
 }
