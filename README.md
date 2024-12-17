@@ -1,5 +1,5 @@
 <h1> to-do-list </h1>
-Criação de API de tarefas para fazer com Java e Spring Boot (Em desenvolvimento)
+Criação de API de tarefas para fazer, com Java e Spring Boot. Pretendo aperfeiçoar conforme meus estudos em Java forem se aprofundando. 
 
 ## Descrição
 Este projeto está sendo criado com base em um desafio de vaga para Desenvolvedor Backend Junior. Desenvolvimento de uma aplicação web utilizando uma linguagem de programação e um framework. A aplicação consiste em um sistema de gerenciamento de tarefas, onde podemos criar, visualizar, editar e excluir tarefas.
